@@ -3,7 +3,7 @@
 
 ## Installing the STP client rules
 
-STP client rules should be used from the [legacy-stp](https://github.com/IntuitiveWebSolutions/legacy-stp) engine.
+STP client rules should be used from the [BriteCore-LegacySTP](https://github.com/IntuitiveWebSolutions/BriteCore-LegacySTP) engine.
 
 Clone that repo and install this rule package:
 
